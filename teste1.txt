@@ -1,0 +1,1 @@
+Este arquivo será utilizado como base de testes para nossa primeira aula de git.
